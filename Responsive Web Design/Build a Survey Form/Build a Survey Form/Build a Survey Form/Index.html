@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">Form Demo Project</h1>
+    <p id="description">The first certification project of the FreeCodeCamp responsive web development course, which is in turn part of their large full-stack web development program.</p>
+    <form id="survey-form">
+      <label for="name" id="name-label">Name:</label>
+      <input type="text" id="name" placeholder="i.e., John Doe" required />
+      <br />
+      <label for="email" id="email-label">Email:</label>
+      <input type="email" id="email" placeholder="JohnDoe@demo.com" required />
+      <br />
+      <label for="number" id="number-label">Age:</label>
+      <input type="number" id="number" min="3" max="100" placeholder="20" />
+      <br />
+      <br />
+      <label for="dropdown">Are you paying attention?</label>
+      <br />
+      <select id="dropdown">
+        <option>Yes</option>
+        <option selected>No</option>
+      </select>
+      <br />
+      <br />
+      <label for="mcq">Can you select both buttons?</label>
+      <br />
+      <input type="radio" id="button-yes" name="mcq" value="yes" />
+      <label for="button-yes">Yes</label>
+      <input type="radio" id="button-no" name="mcq" value="no"/>
+      <label for="button-no">No</label>
+      <br />
+      <br />
+      <label for="boxes">Select a few numbers</label>
+      <br />
+      <input type="checkbox" id="1" name="boxes" value="1" />
+      <label for="1">1</label>
+      <input type="checkbox" id="2" name="boxes" value="2" />
+      <label for="2">2</label>
+      <input type="checkbox" id="3" name="boxes" value="3" />
+      <label for="3">3</label>
+      <input type="checkbox" id="4" name="boxes" value="4" />
+      <label for="4">4</label>
+      <input type="checkbox" id="5" name="boxes" value="5" />
+      <label for="5">5</label>
+      <br />
+      <br />
+      <label for="comments">Any other thoughts?</label>
+      <textarea id="comments"></textarea>
+      <br />
+      <button id="submit">Submit Answers</button>
+    </form>
+  </body>
+</html>
