@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(255,220,220);
+  }
+  
+  #playing-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 300px;
+    width: 200px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    padding: 10px 20px;
+  }
+  
+  .left {
+    align-self: flex-start;
+  }
+  
+  .right {
+    align-self: flex-end;
+  }
+  
+  .middle {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card div {
+    font-size: 3rem;
+  }
+  
+  .diamond, .heart {
+    color: #DF0000;
+  }
+  
+  div.big {
+    font-size: 9rem;
+  }
+  
+  div.med {
+    font-size: 4.5rem;
+  }
