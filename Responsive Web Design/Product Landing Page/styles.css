@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #nav-bar {
+    position: fixed;
+    top: 0;
+  }
+  
+  #extra {
+    display: flex;
+  }
+  
+  @media (max-width: 600px) {
+    #header {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
