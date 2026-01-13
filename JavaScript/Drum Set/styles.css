@@ -1,0 +1,41 @@
+body {
+    background-color: #001F4F;
+  }
+  
+  #drum-machine {
+    background-color: #7F7F00;
+    width: 85%;
+    height: 500px;
+    margin: 10% auto;
+    text-align: center;
+  }
+  
+  #display {
+    background: black;
+    color: white;
+    padding: 10px;
+    margin: 10px auto;
+    width: 200px;
+  }
+  
+  #pad-bank {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .drum-pad {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #6F6F6F;
+    transition: all 0.15s ease;
+  }
+  
+  .drum-pad:active {
+    background-color: #AFAFAF;
+    transition: all 0.15s ease;
+  } 
