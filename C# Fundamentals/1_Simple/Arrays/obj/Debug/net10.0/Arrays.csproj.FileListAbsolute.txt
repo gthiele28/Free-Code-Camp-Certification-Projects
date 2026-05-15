@@ -1,0 +1,15 @@
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/bin/Debug/net10.0/Arrays
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/bin/Debug/net10.0/Arrays.deps.json
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/bin/Debug/net10.0/Arrays.runtimeconfig.json
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/bin/Debug/net10.0/Arrays.dll
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/bin/Debug/net10.0/Arrays.pdb
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/Arrays.AssemblyInfoInputs.cache
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/Arrays.AssemblyInfo.cs
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/Arrays.sourcelink.json
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/Arrays.dll
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/refint/Arrays.dll
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/Arrays.pdb
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/Arrays.genruntimeconfig.cache
+/Users/jonsmith/Desktop/FreeCodeCamp Projects/C# Fundamentals/1_Simple/Arrays/obj/Debug/net10.0/ref/Arrays.dll
